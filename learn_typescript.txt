@@ -1,0 +1,11 @@
+#Create TSC confing Use bellow Command 
+tsc --init
+
+# use bellow commnd to convert all Typescript files into Js
+tsc
+
+# for Watch error use bellow Command (We can watch any changes logs when compile)
+tsc -w
+
+# In tsconfig.json "target" value shows version of convert Ts to JS
+
